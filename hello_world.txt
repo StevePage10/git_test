@@ -1,2 +1,3 @@
 This is my first GitHub test project. 
 Please be kind. 
+This is the second paragraph. 
